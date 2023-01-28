@@ -6,7 +6,7 @@ function Footer() {
             <footer className='py-5 bg-dark fixed-bottom'>
                 <div className='container'>
                     <p class="m-0 text-center text-white">
-                        A react portfolio project
+                       Footer Section
                     </p>
                 </div>
             </footer>
