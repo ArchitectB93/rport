@@ -1,8 +1,8 @@
 import React from 'react'
 
-function Contact() {
+function Projects() {
     return (
-        <div className='contact'>
+        <div className='projects'>
             <div class="container">
                 <div class="row alignt-items-center my-5">
                     <div class="col-lg-7">
@@ -13,12 +13,9 @@ function Contact() {
                         />
                     </div>
                     <div class="col-lg-5">
-                        <h1 class="font-weight-light">Contact</h1>
+                        <h1 class="font-weight-light">Projects</h1>
                         <p>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting
-                            industry. Lorem Ipsum has been the industry's standard dummy text
-                            ever since the 1500s, when an unknown printer took a galley of
-                            type and scrambled it to make a type specimen book.
+                            This section showcases some screenshots of small react projects
                         </p>
                     </div>
                 </div>
@@ -27,4 +24,4 @@ function Contact() {
     );
 }
 
-export default Contact;
+export default Projects;
