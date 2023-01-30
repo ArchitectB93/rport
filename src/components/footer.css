@@ -7,5 +7,65 @@
 }
 
 #github:hover {
-    color: gray
+    color: #171515;
 }
+
+#link {
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    left: 55%;
+    bottom: 30px;
+}
+
+#link:hover {
+    color: #0072b1;
+}
+
+#foot {
+    justify-content: center;
+    align-items: center;
+}
+
+#main {
+    color: white;
+    font-family: inherit;
+    display: inline-block;
+    width: 6em;
+    height: 2.6em;
+    line-height: 2.5em;
+    overflow: hidden;
+    font-size: 17px;
+    z-index: 1;
+    border: 2px solid white;
+    border-radius: 6px;
+    position: relative;
+    top: 12px;
+    left: 40%;
+  }
+  
+  #main::before {
+    position: absolute;
+    content: "";
+    background: blue;
+    width: 150px;
+    height: 200px;
+    z-index: -1;
+    border-radius: 50%;
+    color: white;
+  }
+  
+  #main:hover {
+    color: white;
+  }
+  
+  #main:before {
+    top: 100%;
+    left: 100%;
+    transition: .3s all;
+  }
+  
+  #main:hover::before {
+    top: -30px;
+    left: -30px;
+  }
