@@ -20,3 +20,6 @@ a:hover {
   color: rgba(0, 0, 0, 0.349);
 }
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

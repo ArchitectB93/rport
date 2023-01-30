@@ -1,0 +1,11 @@
+#github {
+    font-size: 50px;
+    color: white;
+    left: 50%;
+    bottom: 30px;
+    position: absolute;
+}
+
+#github:hover {
+    color: gray
+}
