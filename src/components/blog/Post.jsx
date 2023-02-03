@@ -10,25 +10,27 @@ function Post() {
     return (
         <div className='home'>
             <div class="container">
-                <h1 className='mt-5'>This is a Post title</h1>
-                <h6 className='mb-5'>The post slug is, {postSlug}</h6>
+                <h1 className='mt-5'>My code journey + 2023 focus</h1>
+                <br/>
                 <p>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting
-                    industry. Lorem Ipsum has been the industry's standard dummy text ever
-                    since the 1500s, when an unknown printer took a galley of type and
-                    scrambled it to make a type specimen book.
-                </p>
-                <p>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting
-                    industry. Lorem Ipsum has been the industry's standard dummy text ever
-                    since the 1500s, when an unknown printer took a galley of type and
-                    scrambled it to make a type specimen book.
-                </p>
-                <p>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting
-                    industry. Lorem Ipsum has been the industry's standard dummy text ever
-                    since the 1500s, when an unknown printer took a galley of type and
-                    scrambled it to make a type specimen book.
+                    I have been coding for about a year now, and have learned so much in this time period. 
+                    Front-end development is becoming easier by the day. 
+                    <br/>
+                    <br/>
+                    Other than refining my react skills and such, 
+                    I will be focusing on back-end development to become a full stack developer, 
+                    it just makes more sense to me to understand the full app rather than just half.
+                    <br/>
+                    <br/>
+                    Along with focusing on back-end I will create a full stack e-commerce store, 
+                    which I will try and add social media and more to it to slowly become a everything app.
+                    <br/>
+                    Learning Typescript for JS and React is also on my list considering how beneficial it is. 
+                    <br/>
+                    <br/>
+                    Thank you for coming to this corner of my portfolio and taking the time to read this.
+                    <br/>
+                    I look forward to working with you. 
                 </p>
             </div>
         </div>

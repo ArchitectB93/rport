@@ -1,0 +1,22 @@
+
+
+
+
+#rcalc {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    border: solid black;
+    box-shadow: 25px -13px 2px #4CAF50;
+}
+
+#todo {
+    width: 325px;
+    height: 325px;
+    position: absolute;
+    left: 50%;
+    top: 12%;
+    box-shadow: 10px 5px 5px grey;
+}

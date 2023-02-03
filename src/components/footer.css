@@ -25,6 +25,7 @@
 #foot {
     justify-content: center;
     align-items: center;
+    display: flex;
 }
 
 #main {
@@ -68,4 +69,9 @@
   #main:hover::before {
     top: -30px;
     left: -30px;
+  }
+
+  .container {
+    align-items: center;
+    
   }
