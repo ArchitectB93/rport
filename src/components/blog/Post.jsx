@@ -28,6 +28,8 @@ function Post() {
                     Learning Typescript for JS and React is also on my list considering how beneficial it is. 
                     <br/>
                     <br/>
+                    To wrap things up I will also be focusing on Python coding for Ai / Machine learning & Pinescript.
+                    <br/>
                     Thank you for coming to this corner of my portfolio and taking the time to read this.
                     <br/>
                     I look forward to working with you. 
