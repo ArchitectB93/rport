@@ -7,7 +7,7 @@ function Navigation() {
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <div className='container'>
           <NavLink className="navbar-brand" to="/">
-           React portfolio project
+           If home page doesn't load click here
           </NavLink>
           <div>
             <ul className='navbar-nav ml-auto'>
