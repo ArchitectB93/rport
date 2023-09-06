@@ -18,7 +18,7 @@ function Footer() {
                             <FontAwesomeIcon icon={faLinkedin} id="link"/>
                         </button>
                     </a>
-                    <a href='https://architectb93.github.io/ab93.github.io/index.html' rel='noreferrer'>
+                    <a href='https://architectb93.github.io/ab93.github.io/' rel='noreferrer'>
                         <button id="main">
                             Main page
                         </button>
